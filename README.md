@@ -16,4 +16,5 @@ How to set up:
 Tips:
 - For instructions on how to use the extension, check out the popup site by clicking the extension icon that appears in the top left corner of your browser.
 - If you need to, you can change the icon (or delete it) for privacy reasons.
+
 Don't hesitate to contact me if you need anything!

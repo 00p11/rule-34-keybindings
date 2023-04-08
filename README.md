@@ -1,18 +1,19 @@
-# rule-34-keybindings
-Chrome extension that provides key bindings for Rule34.
+Here's a corrected version:
 
-How to setup? 
-1) Downoload all files in this repositri
-2) Put them in one folder
-3) Go to the extension setting in chrome (or whatever browser based on chromium)
-4) Click 'Developer mode' slider
-5) Click newly apeared 'Load unpacked' button
-6) Chouse the file you created
-7) Go to the Rule34 website and check console for succefull loading mesage
-8) DONE!
+Rule-34-Keybindings
+A Chrome extension that provides key bindings for Rule34.
+
+How to set up:
+1) Download all files in this repository.
+2) Put them in one folder.
+3) Go to the extension settings in Chrome (or whatever browser based on Chromium).
+4) Toggle the 'Developer mode' switch.
+5) Click the newly appeared 'Load unpacked' button.
+6) Choose the folder you created.
+7) Go to the Rule34 website and check the console for a successful loading message.
+8) Done!
 
 Tips:
-- For description how to use it check out popup site (by clicking extension icon that appears in the left corner of browser)
-- If you need you can change the icon (or delete) becouse the privacy reasons
-
-Don't wory to ask me if you want anything!
+- For instructions on how to use the extension, check out the popup site by clicking the extension icon that appears in the top left corner of your browser.
+- If you need to, you can change the icon (or delete it) for privacy reasons.
+Don't hesitate to contact me if you need anything!

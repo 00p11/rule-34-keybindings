@@ -1,6 +1,4 @@
-Here's a corrected version:
-
-Rule-34-Keybindings
+# Rule-34-Keybindings
 A Chrome extension that provides key bindings for Rule34.
 
 How to set up:

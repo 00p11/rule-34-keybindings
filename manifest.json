@@ -1,0 +1,26 @@
+{
+  "name": "Key bindings for Rule 34",
+  "description": "Easy and accesible way to improve your life.",
+  "version": "1.1",
+  "icons": {
+    "16": "favicon.png",
+	  "32": "favicon.png",
+	  "64": "favicon.png"
+  },
+  "manifest_version": 2,
+    "permissions": [
+    "storage",
+	"downloads"
+  ],
+  "background": {
+	  "scripts": ["background.js"],
+	  "persistent": false
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [{
+      "matches": ["https://rule34.xxx/*", "https://wimg.rule34.xxx/*"],
+      "js": ["main.js"]
+  }]
+}
